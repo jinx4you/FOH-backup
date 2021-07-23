@@ -1,0 +1,237 @@
+
+
+h3{
+padding-top: 1%;
+  font-size: 2.5rem;
+  font-family: "Ubuntu:wght@700";
+    text-align: center;
+    line-height: 1.5;
+    color:#ff8000;
+}
+
+h4{
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+hr{
+  border:dotted #d3d3d3 6px;
+  border-bottom: none;
+  width:35%;
+}
+
+
+@media (max-width:900px){
+ .h2-index{text-align: left;}
+}
+
+/* navbar style */
+
+.navbar-custom {
+    background-color: #070607;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size:3rem;
+  font-weight: bold;
+  /* padding-left: 1.5% 2%; */
+}
+
+.nav-item{
+  padding:0 20px;
+  /* font-size: 2rem; */
+}
+
+.nav-link{
+  font-size: 1.7rem;
+   font-family: "Montserrat:wght@300";
+
+}
+
+/* style for index page*/
+
+ .h2-index{
+  font-family: "Ubuntu";
+  font-size: 1.6rem;
+color:#ff8000;
+padding-left: 13.5%;
+text-align: left;
+position:absolute;
+top: -25px;
+line-height: 1.5;
+}
+
+/* style for about us page*/
+
+.testimonial-img{
+  border-radius: 100%;
+  margin:0 10px 10px;
+  height:45%;
+}
+
+.carousel-item{
+     padding:1% 10%;
+        height:300px;
+background-color:  #00b3b3;
+  color:black;
+  text-align: center;
+}
+
+.abt-img-1{
+  margin-left: 50%;
+  border-radius: 100%;
+  width:52%;
+height: 180px;
+}
+
+.abt-img-2{
+  margin-top: 2%;
+  margin-right: 80%;
+  width: 55%;
+  border-radius: 100%;
+}
+
+.abt-bdy{
+font-family: "Montserrat:wght@300";
+  line-height: 1.5;
+  font-size: 1.4rem;
+  padding-left:15%;
+  padding-right: 15%;
+}
+
+/* style for games page */
+
+.center-align{
+  text-align: center;
+}
+
+.btn-bdy{
+  font-size: 1.2rem;
+}
+
+.game-img-1{
+width:50%;
+  margin-left: 30%;
+}
+.game-img-2{
+margin-top:3%;
+  width: 40%;
+margin-left: 25%;
+}
+
+.rule-link{
+  color: black;
+}
+
+/* style for rules page */
+
+.rules-body{
+  font-family: "Montserrat:wght@300";
+  line-height: 1.5;
+  font-size: 1.4rem;
+  padding-left:15%;
+  padding-right: 15%;
+}
+.rul-pad{
+  padding-left:7%;
+}
+
+.rules-img-1{
+  width:20%;
+  float: left;
+  margin-right: 5%;
+  margin-bottom:4%;
+  height:19%;
+}
+
+
+/* style for contact Us */
+
+.con-bdy{
+  text-align: center;
+  padding: .5%;
+  font-size: 1.5rem;
+  font-family: "Montserrat:wght@300";
+}
+
+.h3-crew{
+  font-size: 1.5rem;
+  color:#1e90ff;
+}
+
+.p-crew{
+  font-size: 1.2rem;
+  color: gray;
+}
+
+.crew-pic{
+  width:40%;
+border-radius: 100%;
+}
+.crew-pic-k{
+  width:36.5%;
+border-radius: 100%;
+}
+
+.fb, .fb-link{
+  color: #1e90ff;
+}
+.tw{
+  color:#00bfff;
+}
+.fb:hover, .tw:hover{
+  color: #ff4c68;
+}
+
+.email-link{
+  color:white;
+}
+
+.con-btn{
+  margin-top:5%;
+  margin-bottom:2%;
+  }
+
+/* karen */
+#karen-about{
+background-color: #ffe6e6;
+font-family: "Ubuntu";
+line-height: 1.5;
+}
+
+.gang-box{
+  text-align: center;
+  padding: .5%;
+  font-size:1.5rem;
+  /* font-family: "Ubuntu:wght@700"; */
+  margin:0 33%;
+  line-height: 1.5rem;
+
+}
+
+.gang-text{
+  /* font-family: "Ubuntu:wght@700"; */
+  line-height: 1.5;
+}
+
+
+  .register-img{
+    position:static;
+    width:100%;
+  }
+
+
+#footer{
+padding: 2.4% 15%;
+text-align: center;
+background-color:  	#ff8000;
+color:white;
+height:170px;
+}
+
+.social-icon{
+  margin:20px 10px;
+
+}
