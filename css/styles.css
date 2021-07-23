@@ -80,7 +80,7 @@ background-color:  #00b3b3;
 }
 
 .abt-img-1{
-  margin-left: 50%;
+  margin-left: 25%;
   border-radius: 100%;
   width:52%;
 height: 180px;
@@ -88,7 +88,7 @@ height: 180px;
 
 .abt-img-2{
   margin-top: 2%;
-  margin-right: 80%;
+margin-left: 25%;
   width: 55%;
   border-radius: 100%;
 }
