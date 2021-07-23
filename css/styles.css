@@ -1,16 +1,4 @@
-/* @media (max-width:900px){
- .h2-index{
-   text-align: left;
-    padding-left: 23.5%; }
-} */
 
-/* @media only screen and (max-width: 768px) {
-  /* For mobile phones: 
- .abt-img-1{
-    height: 200px;
-    margin-left: 1%;
-  }
-} */
 h3{
 padding-top: 1%;
   font-size: 2.5rem;
@@ -88,12 +76,12 @@ background-color:  #00b3b3;
   text-align: center;
 }
 
-/* .abt-img-1{
+.abt-img-1{
   margin-left: 25%;
   border-radius: 100%;
   width:52%;
 height: 180px;
-} */
+}
 
 .abt-img-2{
   margin-top: 2%;
@@ -107,8 +95,10 @@ font-family: "Montserrat:wght@300";
   line-height: 1.5;
   font-size: 1.4rem;
   padding-left:15%;
-  padding-right: 15%;
- width:65%
+padding-right: 15%;
+}
+.abt-mar{
+  margin:0 15% 0 15% ;
 }
 
 /* style for games page */
@@ -124,15 +114,22 @@ font-family: "Montserrat:wght@300";
 .game-img-1{
 width:50%;
   margin-left: 25%;
+
 }
 .game-img-2{
 margin-top:3%;
   width: 40%;
-margin-left: 20%;
+margin-left: 30%;
+
 }
 
 .rule-link{
   color: black;
+}
+
+.rnr-btn{
+  margin-left: 2%;
+  margin-top:1%;
 }
 
 /* style for rules page */
@@ -177,12 +174,13 @@ margin-left: 20%;
 }
 
 .crew-pic{
-  width:40%;
+  width:30%;
 border-radius: 100%;
 }
 .crew-pic-k{
-  width:36.5%;
+  width:30.5%;
 border-radius: 100%;
+height:155px;
 }
 
 .fb, .fb-link{
@@ -206,24 +204,13 @@ border-radius: 100%;
 
 /* karen */
 #karen-about{
-background-color: #ffe6e6;
-font-family: "Ubuntu";
+/* background-color: #ffe6e6; */
+ font-family: "Montserrat:wght@500";
 line-height: 1.5;
-}
-
-.gang-box{
-  text-align: center;
+font-size:1.5rem;
+margin:0 33%;
+text-align: center;
   padding: .5%;
-  font-size:1.5rem;
-  /* font-family: "Ubuntu:wght@700"; */
-  margin:0 33%;
-  line-height: 1.5rem;
-
-}
-
-.gang-text{
-  /* font-family: "Ubuntu:wght@700"; */
-  line-height: 1.5;
 }
 
 
@@ -243,5 +230,4 @@ height:170px;
 
 .social-icon{
   margin:20px 10px;
-
 }
