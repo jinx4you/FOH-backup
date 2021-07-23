@@ -223,11 +223,15 @@ text-align: center;
 #footer{
 padding: 2.4% 15%;
 text-align: center;
-background-color:  	#ff8000;
+background-color:  	#00b3b3;
 color:white;
 height:170px;
 }
 
 .social-icon{
   margin:20px 10px;
+  color:	 #ff471a;
+}
+.social-icon:hover{
+  color:  #ff0000;
 }
